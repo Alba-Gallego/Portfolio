@@ -15,7 +15,7 @@ export const SITE_CONFIG: SiteConfig = {
   socialLinks: [
     { text: "Github", href: "https://github.com/Alba-Gallego" }
   ],
-  socialImage: "/zen-og.png",
+  socialImage: "/alba-og.png",
   canonicalURL: "https://astro-zen.vercel.app",
 };
 
