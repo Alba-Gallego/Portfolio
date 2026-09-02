@@ -25,7 +25,7 @@ export const SITE_CONTENT: SiteContent = {
     specialty: "Programadora de videojuegos",
     summary:
       "Programadora de videojuegos formada en Unreal Engine",
-    email: "alvaroggblanes@gmail.com",
+    email: "albagallego2004@gmail.com",
   },
   //experience: [],
   projects: [
